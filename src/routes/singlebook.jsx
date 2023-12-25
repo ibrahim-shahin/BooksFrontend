@@ -23,7 +23,6 @@ export const Singlebook = () => {
 
             } catch (error) {
                 console.log(error)
-
             }
         }
         fetchData()

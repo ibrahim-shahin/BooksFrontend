@@ -1,4 +1,4 @@
 // config.js
-const LINK = 'http://localhost:8000/';
+const LINK = 'https://booksbackend-km1t.onrender.com/';
 
 export default LINK;

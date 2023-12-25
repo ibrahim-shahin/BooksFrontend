@@ -8,7 +8,6 @@ import { Singlebook } from "./routes/singlebook"
 import CreateBook from "./routes/createBook";
 import EditBook from "./routes/editBook"
 
-
 function App() {
   return (
     <>
